@@ -1,0 +1,241 @@
+{
+  "Version": "3.4.0+dev", 
+  "Began": "Sat May  6 14:57:40 2023", 
+  "Command line": "ior -a MPIIO -w -b 100M -t 2M -O summaryFormat=JSON --mpiio.hintsFileName=hintsF_GA,bo,tpe -i 10",
+  "Machine": "Linux cn1919", 
+  "tests": [
+    {
+    "TestID": 0, 
+    "StartTime": "Sat May  6 14:57:40 2023"    , "Path": "testFile","Capacity": "9881.5 TiB", "Used Capacity": "18.0%","Inodes": "8192.0 Mi", "Used Inodes" : "9.5%"
+, 
+    "Parameters": {
+      "testID": 0, 
+      "refnum": 0, 
+      "api": "MPIIO", 
+      "platform": "cn(Linux)", 
+      "testFileName": "testFile", 
+      "deadlineForStonewall": 0, 
+      "stoneWallingWearOut": 0, 
+      "maxTimeDuration": 0, 
+      "outlierThreshold": 0, 
+      "options": "(null)", 
+      "dryRun": 0, 
+      "nodes": 64, 
+      "memoryPerTask": 0, 
+      "memoryPerNode": 0, 
+      "tasksPerNode": 1, 
+      "repetitions": 10, 
+      "multiFile": 0, 
+      "interTestDelay": 0, 
+      "fsync": 0, 
+      "fsyncperwrite": 0, 
+      "useExistingTestFile": 0, 
+      "uniqueDir": 0, 
+      "singleXferAttempt": 0, 
+      "readFile": 0, 
+      "writeFile": 1, 
+      "filePerProc": 0, 
+      "reorderTasks": 0, 
+      "reorderTasksRandom": 0, 
+      "reorderTasksRandomSeed": 0, 
+      "randomOffset": 0, 
+      "checkWrite": 0, 
+      "checkRead": 0, 
+      "dataPacketType": 0, 
+      "keepFile": 0, 
+      "keepFileWithError": 0, 
+      "warningAsErrors": 0, 
+      "verbose": 0, 
+      "data packet type": "g", 
+      "setTimeStampSignature/incompressibleSeed": 0, 
+      "collective": 0, 
+      "segmentCount": 1, 
+      "transferSize": 2097152, 
+      "blockSize": 104857600
+    }
+, 
+    "Options": {
+      "api": "MPIIO", 
+      "apiVersion": "(3.1)", 
+      "test filename": "testFile", 
+      "access": "single-shared-file", 
+      "type": "independent", 
+      "segments": 1, 
+      "ordering in a file": "sequential", 
+      "ordering inter file": "no tasks offsets", 
+      "nodes": 64, 
+      "tasks": 64, 
+      "clients per node": 1, 
+      "repetitions": 10, 
+      "xfersize": "2 MiB", 
+      "blocksize": "100 MiB", 
+      "aggregate filesize": "6.25 GiB"
+    }
+, 
+    "Results": [
+            {
+        "access": "write", 
+        "bwMiB": 3035.7478, 
+        "blockKiB": 102400.0000, 
+        "xferKiB": 2048.0000, 
+        "iops": 1748.1343, 
+        "latency": 0.0115, 
+        "openTime": 0.1692, 
+        "wrRdTime": 1.8305, 
+        "closeTime": 1.4624, 
+        "totalTime": 2.1082
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 4178.5170, 
+        "blockKiB": 102400.0000, 
+        "xferKiB": 2048.0000, 
+        "iops": 2268.9563, 
+        "latency": 0.0112, 
+        "openTime": 0.1215, 
+        "wrRdTime": 1.4103, 
+        "closeTime": 0.8924, 
+        "totalTime": 1.5316
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 2869.8048, 
+        "blockKiB": 102400.0000, 
+        "xferKiB": 2048.0000, 
+        "iops": 1803.0261, 
+        "latency": 0.0109, 
+        "openTime": 0.3356, 
+        "wrRdTime": 1.7748, 
+        "closeTime": 1.4085, 
+        "totalTime": 2.2301
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 7799.0962, 
+        "blockKiB": 102400.0000, 
+        "xferKiB": 2048.0000, 
+        "iops": 4090.1683, 
+        "latency": 0.0093, 
+        "openTime": 0.0352, 
+        "wrRdTime": 0.7824, 
+        "closeTime": 0.4124, 
+        "totalTime": 0.8206
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 3091.4112, 
+        "blockKiB": 102400.0000, 
+        "xferKiB": 2048.0000, 
+        "iops": 1770.3550, 
+        "latency": 0.0116, 
+        "openTime": 0.2559, 
+        "wrRdTime": 1.8075, 
+        "closeTime": 1.2995, 
+        "totalTime": 2.0703
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 2989.1638, 
+        "blockKiB": 102400.0000, 
+        "xferKiB": 2048.0000, 
+        "iops": 1980.8440, 
+        "latency": 0.0112, 
+        "openTime": 0.5238, 
+        "wrRdTime": 1.6155, 
+        "closeTime": 1.1021, 
+        "totalTime": 2.1411
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 2166.9874, 
+        "blockKiB": 102400.0000, 
+        "xferKiB": 2048.0000, 
+        "iops": 1356.8976, 
+        "latency": 0.0104, 
+        "openTime": 0.5918, 
+        "wrRdTime": 2.3583, 
+        "closeTime": 1.9758, 
+        "totalTime": 2.9534
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 3884.7895, 
+        "blockKiB": 102400.0000, 
+        "xferKiB": 2048.0000, 
+        "iops": 2342.9048, 
+        "latency": 0.0122, 
+        "openTime": 0.2705, 
+        "wrRdTime": 1.3658, 
+        "closeTime": 0.8942, 
+        "totalTime": 1.6475
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 4585.1939, 
+        "blockKiB": 102400.0000, 
+        "xferKiB": 2048.0000, 
+        "iops": 2462.5407, 
+        "latency": 0.0120, 
+        "openTime": 0.0830, 
+        "wrRdTime": 1.2995, 
+        "closeTime": 0.8043, 
+        "totalTime": 1.3958
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 7742.5145, 
+        "blockKiB": 102400.0000, 
+        "xferKiB": 2048.0000, 
+        "iops": 4325.9271, 
+        "latency": 0.0092, 
+        "openTime": 0.0195, 
+        "wrRdTime": 0.7397, 
+        "closeTime": 0.4385, 
+        "totalTime": 0.8266
+      }
+]
+
+  }
+]
+, 
+"summary": [
+    {
+    "operation": "write", 
+    "API": "MPIIO", 
+    "TestID": 0, 
+    "ReferenceNumber": 0, 
+    "segmentCount": 1, 
+    "blockSize": 104857600, 
+    "transferSize": 2097152, 
+    "numTasks": 64, 
+    "tasksPerNode": 1, 
+    "repetitions": 10, 
+    "filePerProc": 0, 
+    "reorderTasks": 0, 
+    "taskPerNodeOffset": 1, 
+    "reorderTasksRandom": 0, 
+    "reorderTasksRandomSeed": 0, 
+    "bwMaxMIB": 7799.0962, 
+    "bwMinMIB": 2166.9874, 
+    "bwMeanMIB": 4234.3226, 
+    "bwStdMIB": 1889.2446, 
+    "OPsMax": 3899.5481, 
+    "OPsMin": 1083.4937, 
+    "OPsMean": 2117.1613, 
+    "OPsSD": 944.6223, 
+    "MeanTime": 1.7725, 
+    "xsizeMiB": 6400.0000
+  }
+]
+, 
+"Finished": "Sat May  6 14:58:02 2023"
+}

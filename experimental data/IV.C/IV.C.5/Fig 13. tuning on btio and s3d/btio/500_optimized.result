@@ -1,0 +1,18 @@
+ Reading from input file 500_tunning.data
+-- BT-IO Benchmark (write operation only) --
+Number of MPI processes     :        64
+Global array size X         :       500
+Global array size Y         :       500
+Global array size Z         :       500
+Number of I/O iterations    :         5
+Total I/O amount            :     23841.86 MiB
+Total I/O time in sec       :        13.27
+Max file create time in sec :         0.90
+Max write post  time in sec :         2.19
+Max write wait  time in sec :        10.43
+I/O bandwidth            :      1797.05 MiB/s
+------------------------------------------
+Using Parallel netCDF non-blocking I/O method
+output file path         : ./output
+file striping count      :        32
+file striping size       :   1048576 bytes

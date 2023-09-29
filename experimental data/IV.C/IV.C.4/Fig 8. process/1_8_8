@@ -1,0 +1,399 @@
+{
+  "Version": "3.4.0+dev", 
+  "Began": "Mon Mar  6 10:11:04 2023", 
+  "Command line": "ior -a MPIIO -t 1M -b 1073741824 -O summaryFormat=JSON -i 10", 
+  "Machine": "Linux cn514", 
+  "tests": [
+    {
+    "TestID": 0, 
+    "StartTime": "Mon Mar  6 10:11:04 2023"    , "Path": "testFile","Capacity": "9881.6 TiB", "Used Capacity": "16.3%","Inodes": "8192.0 Mi", "Used Inodes" : "9.0%"
+, 
+    "Parameters": {
+      "testID": 0, 
+      "refnum": 0, 
+      "api": "MPIIO", 
+      "platform": "cn(Linux)", 
+      "testFileName": "testFile", 
+      "deadlineForStonewall": 0, 
+      "stoneWallingWearOut": 0, 
+      "maxTimeDuration": 0, 
+      "outlierThreshold": 0, 
+      "options": "(null)", 
+      "dryRun": 0, 
+      "nodes": 8, 
+      "memoryPerTask": 0, 
+      "memoryPerNode": 0, 
+      "tasksPerNode": 1, 
+      "repetitions": 10, 
+      "multiFile": 0, 
+      "interTestDelay": 0, 
+      "fsync": 0, 
+      "fsyncperwrite": 0, 
+      "useExistingTestFile": 0, 
+      "uniqueDir": 0, 
+      "singleXferAttempt": 0, 
+      "readFile": 1, 
+      "writeFile": 1, 
+      "filePerProc": 0, 
+      "reorderTasks": 0, 
+      "reorderTasksRandom": 0, 
+      "reorderTasksRandomSeed": 0, 
+      "randomOffset": 0, 
+      "checkWrite": 0, 
+      "checkRead": 0, 
+      "dataPacketType": 0, 
+      "keepFile": 0, 
+      "keepFileWithError": 0, 
+      "warningAsErrors": 0, 
+      "verbose": 0, 
+      "data packet type": "g", 
+      "setTimeStampSignature/incompressibleSeed": 0, 
+      "collective": 0, 
+      "segmentCount": 1, 
+      "transferSize": 1048576, 
+      "blockSize": 1073741824
+    }
+, 
+    "Options": {
+      "api": "MPIIO", 
+      "apiVersion": "(3.1)", 
+      "test filename": "testFile", 
+      "access": "single-shared-file", 
+      "type": "independent", 
+      "segments": 1, 
+      "ordering in a file": "sequential", 
+      "ordering inter file": "no tasks offsets", 
+      "nodes": 8, 
+      "tasks": 8, 
+      "clients per node": 1, 
+      "repetitions": 10, 
+      "xfersize": "1 MiB", 
+      "blocksize": "1 GiB", 
+      "aggregate filesize": "8 GiB"
+    }
+, 
+    "Results": [
+            {
+        "access": "write", 
+        "bwMiB": 373.7293, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 374.5906, 
+        "latency": 0.0210, 
+        "openTime": 0.0190, 
+        "wrRdTime": 21.8692, 
+        "closeTime": 4.4458, 
+        "totalTime": 21.9196
+      }
+, 
+            {
+        "access": "read", 
+        "bwMiB": 4029.1799, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 4046.3013, 
+        "latency": 0.0019, 
+        "openTime": 0.0121, 
+        "wrRdTime": 2.0246, 
+        "closeTime": 0.1556, 
+        "totalTime": 2.0332
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 448.9443, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 449.1460, 
+        "latency": 0.0178, 
+        "openTime": 0.0079, 
+        "wrRdTime": 18.2391, 
+        "closeTime": 1.9920, 
+        "totalTime": 18.2473
+      }
+, 
+            {
+        "access": "read", 
+        "bwMiB": 3688.9451, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 3715.6629, 
+        "latency": 0.0020, 
+        "openTime": 0.0021, 
+        "wrRdTime": 2.2047, 
+        "closeTime": 0.5230, 
+        "totalTime": 2.2207
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 393.0307, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 399.4073, 
+        "latency": 0.0195, 
+        "openTime": 0.2943, 
+        "wrRdTime": 20.5104, 
+        "closeTime": 4.4510, 
+        "totalTime": 20.8432
+      }
+, 
+            {
+        "access": "read", 
+        "bwMiB": 3945.6265, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 3948.0511, 
+        "latency": 0.0018, 
+        "openTime": 0.0004, 
+        "wrRdTime": 2.0749, 
+        "closeTime": 0.2510, 
+        "totalTime": 2.0762
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 427.6178, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 427.8283, 
+        "latency": 0.0164, 
+        "openTime": 0.0091, 
+        "wrRdTime": 19.1479, 
+        "closeTime": 2.3457, 
+        "totalTime": 19.1573
+      }
+, 
+            {
+        "access": "read", 
+        "bwMiB": 3606.9994, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 3788.1786, 
+        "latency": 0.0018, 
+        "openTime": 0.1172, 
+        "wrRdTime": 2.1625, 
+        "closeTime": 0.4823, 
+        "totalTime": 2.2711
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 404.4559, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 410.3853, 
+        "latency": 0.0174, 
+        "openTime": 0.2919, 
+        "wrRdTime": 19.9617, 
+        "closeTime": 2.9488, 
+        "totalTime": 20.2544
+      }
+, 
+            {
+        "access": "read", 
+        "bwMiB": 3981.0703, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 4012.1892, 
+        "latency": 0.0018, 
+        "openTime": 0.0170, 
+        "wrRdTime": 2.0418, 
+        "closeTime": 0.2134, 
+        "totalTime": 2.0577
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 401.6188, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 402.1576, 
+        "latency": 0.0164, 
+        "openTime": 0.0078, 
+        "wrRdTime": 20.3701, 
+        "closeTime": 3.5956, 
+        "totalTime": 20.3974
+      }
+, 
+            {
+        "access": "read", 
+        "bwMiB": 3772.5042, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 3775.3917, 
+        "latency": 0.0018, 
+        "openTime": 0.0479, 
+        "wrRdTime": 2.1698, 
+        "closeTime": 0.3968, 
+        "totalTime": 2.1715
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 440.3321, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 442.3661, 
+        "latency": 0.0179, 
+        "openTime": 0.0850, 
+        "wrRdTime": 18.5186, 
+        "closeTime": 1.8300, 
+        "totalTime": 18.6041
+      }
+, 
+            {
+        "access": "read", 
+        "bwMiB": 3563.6838, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 3570.0095, 
+        "latency": 0.0017, 
+        "openTime": 0.0353, 
+        "wrRdTime": 2.2947, 
+        "closeTime": 0.5489, 
+        "totalTime": 2.2987
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 422.2908, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 423.0841, 
+        "latency": 0.0187, 
+        "openTime": 0.0238, 
+        "wrRdTime": 19.3626, 
+        "closeTime": 2.6640, 
+        "totalTime": 19.3990
+      }
+, 
+            {
+        "access": "read", 
+        "bwMiB": 3896.0060, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 4098.4654, 
+        "latency": 0.0018, 
+        "openTime": 0.1127, 
+        "wrRdTime": 1.9988, 
+        "closeTime": 0.2050, 
+        "totalTime": 2.1027
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 371.6240, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 374.0683, 
+        "latency": 0.0211, 
+        "openTime": 0.1431, 
+        "wrRdTime": 21.8997, 
+        "closeTime": 5.5011, 
+        "totalTime": 22.0438
+      }
+, 
+            {
+        "access": "read", 
+        "bwMiB": 3994.2019, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 4033.8601, 
+        "latency": 0.0018, 
+        "openTime": 0.0018, 
+        "wrRdTime": 2.0308, 
+        "closeTime": 0.2291, 
+        "totalTime": 2.0510
+      }
+, 
+            {
+        "access": "write", 
+        "bwMiB": 434.8816, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 440.0571, 
+        "latency": 0.0178, 
+        "openTime": 0.2191, 
+        "wrRdTime": 18.6158, 
+        "closeTime": 2.5011, 
+        "totalTime": 18.8373
+      }
+, 
+            {
+        "access": "read", 
+        "bwMiB": 3721.1787, 
+        "blockKiB": 1048576.0000, 
+        "xferKiB": 1024.0000, 
+        "iops": 3931.8398, 
+        "latency": 0.0019, 
+        "openTime": 0.1161, 
+        "wrRdTime": 2.0835, 
+        "closeTime": 0.3050, 
+        "totalTime": 2.2015
+      }
+]
+
+  }
+]
+, 
+"summary": [
+    {
+    "operation": "write", 
+    "API": "MPIIO", 
+    "TestID": 0, 
+    "ReferenceNumber": 0, 
+    "segmentCount": 1, 
+    "blockSize": 1073741824, 
+    "transferSize": 1048576, 
+    "numTasks": 8, 
+    "tasksPerNode": 1, 
+    "repetitions": 10, 
+    "filePerProc": 0, 
+    "reorderTasks": 0, 
+    "taskPerNodeOffset": 1, 
+    "reorderTasksRandom": 0, 
+    "reorderTasksRandomSeed": 0, 
+    "bwMaxMIB": 448.9443, 
+    "bwMinMIB": 371.6240, 
+    "bwMeanMIB": 411.8525, 
+    "bwStdMIB": 25.8073, 
+    "OPsMax": 448.9443, 
+    "OPsMin": 371.6240, 
+    "OPsMean": 411.8525, 
+    "OPsSD": 25.8073, 
+    "MeanTime": 19.9703, 
+    "xsizeMiB": 8192.0000
+  }
+, 
+    {
+    "operation": "read", 
+    "API": "MPIIO", 
+    "TestID": 0, 
+    "ReferenceNumber": 0, 
+    "segmentCount": 1, 
+    "blockSize": 1073741824, 
+    "transferSize": 1048576, 
+    "numTasks": 8, 
+    "tasksPerNode": 1, 
+    "repetitions": 10, 
+    "filePerProc": 0, 
+    "reorderTasks": 0, 
+    "taskPerNodeOffset": 1, 
+    "reorderTasksRandom": 0, 
+    "reorderTasksRandomSeed": 0, 
+    "bwMaxMIB": 4029.1799, 
+    "bwMinMIB": 3563.6838, 
+    "bwMeanMIB": 3819.9396, 
+    "bwStdMIB": 161.8237, 
+    "OPsMax": 4029.1799, 
+    "OPsMin": 3563.6838, 
+    "OPsMean": 3819.9396, 
+    "OPsSD": 161.8237, 
+    "MeanTime": 2.1484, 
+    "xsizeMiB": 8192.0000
+  }
+]
+, 
+"Finished": "Mon Mar  6 10:15:25 2023"
+}

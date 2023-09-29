@@ -1,0 +1,18 @@
+ Reading from input file 300_rl.data
+-- BT-IO Benchmark (write operation only) --
+Number of MPI processes     :        64
+Global array size X         :       300
+Global array size Y         :       300
+Global array size Z         :       300
+Number of I/O iterations    :         5
+Total I/O amount            :      5149.84 MiB
+Total I/O time in sec       :         8.82
+Max file create time in sec :         0.70
+Max write post  time in sec :         0.51
+Max write wait  time in sec :         7.74
+I/O bandwidth            :       584.01 MiB/s
+------------------------------------------
+Using Parallel netCDF non-blocking I/O method
+output file path         : ./output
+file striping count      :        15
+file striping size       : 275775488 bytes

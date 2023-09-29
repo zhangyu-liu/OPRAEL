@@ -1,0 +1,56 @@
+ ---- MPI file info used ----
+                         direct_read = false
+                        direct_write = false
+               romio_lustre_co_ratio = 1
+         romio_lustre_coll_threshold = 0
+             romio_lustre_ds_in_coll = enable
+                       striping_unit = 25165824
+                     striping_factor = 51
+                      cb_buffer_size = 16777216
+                       romio_cb_read = enable
+                      romio_cb_write = enable
+                            cb_nodes = 24
+                   romio_no_indep_rw = false
+                        romio_cb_pfr = disable
+                   romio_cb_fr_types = aar
+               romio_cb_fr_alignment = 1
+               romio_cb_ds_threshold = 0
+                   romio_cb_alltoall = automatic
+                  ind_rd_buffer_size = 4194304
+                  ind_wr_buffer_size = 524288
+                       romio_ds_read = disable
+                      romio_ds_write = automatic
+                      cb_config_list = *:3
+               romio_filesystem_type = LUSTRE:
+               romio_aggregator_list = 0 1 2 8 9 10 16 17 18 24 25 26 32 33 34 40 41 42 48 49 50 56 57 58
+         romio_lustre_start_iodevice = 0
+                nc_header_align_size = 25165824
+                   nc_var_align_size = 4
+                nc_record_align_size = 25165824
+           nc_header_read_chunk_size = 262144
+                    nc_in_place_swap = enable
+                   pnetcdf_subfiling = disable
+
+ ++++ I/O is done through PnetCDF ++++
+ I/O method          : nonblocking APIs
+ Run with restart    : True
+ No. MPI processes   :      64
+ Global array size   :     100 x    100 x    200
+ output file path    : .
+ file striping count :      51
+ file striping size  : ******* bytes
+ -----------------------------------------------
+ Time for open       :        0.26 sec
+ Time for read       :        0.27 sec
+ Time for write      :        1.34 sec
+ Time for close      :        0.08 sec
+ no. read  calls     :        4    per process
+ no. write calls     :       20    per process
+ total read  amount  :        0.24 GiB
+ total write amount  :        1.19 GiB
+ read  bandwidth     :      904.10 MiB/s
+ write bandwidth     :      908.90 MiB/s
+ -----------------------------------------------
+ total I/O   amount  :        1.43 GiB
+ total I/O   time    :        1.61 sec
+ I/O   bandwidth     :      907.30 MiB/s

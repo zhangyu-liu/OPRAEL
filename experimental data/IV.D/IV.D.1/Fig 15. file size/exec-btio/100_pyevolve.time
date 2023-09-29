@@ -1,0 +1,18 @@
+ Reading from input file 100_pyevolve.data
+-- BT-IO Benchmark (write operation only) --
+Number of MPI processes     :        64
+Global array size X         :       100
+Global array size Y         :       100
+Global array size Z         :       100
+Number of I/O iterations    :         5
+Total I/O amount            :       190.73 MiB
+Total I/O time in sec       :         2.94
+Max file create time in sec :         1.92
+Max write post  time in sec :         0.06
+Max write wait  time in sec :         1.01
+I/O bandwidth            :        64.89 MiB/s
+------------------------------------------
+Using Parallel netCDF non-blocking I/O method
+output file path         : ./output
+file striping count      :        10
+file striping size       : 605028352 bytes

@@ -1,0 +1,540 @@
+INFO:root:cost_time:0.006516
+INFO:root:Evaluate Parameters config (17, 617611264, 1, 0, 2, 1, 43, 8):
+INFO:root:performance:365.040000
+INFO:root:cost_time:25.808521
+INFO:root:Evaluate Parameters config (40, 222298112, 0, 1, 2, 1, 35, 8):
+INFO:root:performance:54.450000
+INFO:root:cost_time:139.460568
+INFO:root:Evaluate Parameters config (37, 191889408, 0, 1, 0, 1, 47, 6):
+INFO:root:performance:57.140000
+INFO:root:cost_time:247.743094
+INFO:root:Evaluate Parameters config (30, 573571072, 0, 0, 2, 0, 59, 1):
+INFO:root:performance:434.520000
+INFO:root:cost_time:264.528625
+INFO:root:Evaluate Parameters config (9, 814743552, 2, 1, 2, 0, 26, 2):
+INFO:root:performance:5.270000
+INFO:root:cost_time:1381.549305
+INFO:root:Evaluate Parameters config (7, 378535936, 0, 0, 1, 0, 26, 3):
+INFO:root:performance:464.240000
+INFO:root:cost_time:1399.971976
+INFO:root:Evaluate Parameters config (30, 464519168, 0, 0, 2, 0, 44, 5):
+INFO:root:performance:373.840000
+INFO:root:cost_time:1420.561950
+INFO:root:Evaluate Parameters config (63, 411041792, 1, 2, 0, 1, 6, 4):
+INFO:root:performance:366.770000
+INFO:root:cost_time:1440.301294
+INFO:root:Evaluate Parameters config (52, 114294784, 1, 2, 1, 1, 52, 7):
+INFO:root:performance:633.480000
+INFO:root:cost_time:1454.222432
+INFO:root:Evaluate Parameters config (41, 871366656, 1, 1, 0, 2, 47, 8):
+INFO:root:performance:4.830000
+INFO:root:cost_time:2672.374502
+INFO:root:Evaluate Parameters config (18, 697303040, 2, 0, 1, 0, 36, 1):
+INFO:root:performance:417.660000
+INFO:root:cost_time:2692.473491
+INFO:root:Evaluate Parameters config (28, 48234496, 1, 1, 2, 1, 11, 8):
+INFO:root:performance:107.290000
+INFO:root:cost_time:2751.163988
+INFO:root:Evaluate Parameters config (4, 260046848, 0, 0, 1, 0, 57, 8):
+INFO:root:performance:485.200000
+INFO:root:cost_time:2766.008460
+INFO:root:Evaluate Parameters config (36, 1044381696, 0, 0, 2, 0, 7, 8):
+INFO:root:performance:189.710000
+INFO:root:cost_time:2800.043093
+INFO:root:Evaluate Parameters config (39, 321912832, 1, 2, 1, 1, 52, 7):
+INFO:root:performance:397.320000
+INFO:root:cost_time:2820.578786
+INFO:root:Evaluate Parameters config (17, 1069547520, 2, 2, 2, 2, 19, 7):
+INFO:root:performance:223.450000
+INFO:root:cost_time:2850.604761
+INFO:root:Evaluate Parameters config (58, 2097152, 2, 1, 2, 0, 36, 8):
+INFO:root:performance:52.400000
+INFO:root:cost_time:2968.613794
+INFO:root:Evaluate Parameters config (59, 917504000, 1, 2, 2, 0, 36, 3):
+INFO:root:performance:267.100000
+INFO:root:cost_time:2994.213642
+INFO:root:Evaluate Parameters config (44, 29360128, 0, 0, 0, 1, 62, 3):
+INFO:root:performance:955.570000
+INFO:root:cost_time:3006.230220
+INFO:root:Evaluate Parameters config (28, 984612864, 2, 1, 1, 2, 48, 6):
+INFO:root:performance:4.390000
+INFO:root:cost_time:4344.947169
+INFO:root:Evaluate Parameters config (28, 908066816, 0, 1, 1, 1, 30, 6):
+INFO:root:performance:73.310000
+INFO:root:cost_time:4430.881470
+INFO:root:Evaluate Parameters config (9, 114294784, 2, 2, 0, 1, 16, 2):
+INFO:root:performance:946.360000
+INFO:root:cost_time:4446.246714
+INFO:root:Evaluate Parameters config (28, 727711744, 1, 0, 0, 2, 30, 4):
+INFO:root:performance:329.540000
+INFO:root:cost_time:4470.954391
+INFO:root:Evaluate Parameters config (58, 927989760, 2, 1, 2, 0, 28, 5):
+INFO:root:performance:4.490000
+INFO:root:cost_time:5780.012709
+INFO:root:Evaluate Parameters config (57, 145752064, 1, 0, 0, 1, 30, 6):
+INFO:root:performance:634.280000
+INFO:root:cost_time:5792.864213
+INFO:root:Evaluate Parameters config (10, 942669824, 0, 2, 2, 2, 35, 8):
+INFO:root:performance:253.270000
+INFO:root:cost_time:5819.094287
+INFO:root:Evaluate Parameters config (18, 697303040, 0, 2, 0, 0, 5, 1):
+INFO:root:performance:316.240000
+INFO:root:cost_time:5843.573159
+INFO:root:Evaluate Parameters config (46, 555745280, 2, 1, 2, 0, 10, 7):
+INFO:root:performance:6.350000
+INFO:root:cost_time:6771.243291
+INFO:root:Evaluate Parameters config (3, 572522496, 0, 1, 1, 2, 19, 6):
+INFO:root:performance:6.570000
+INFO:root:cost_time:7667.113985
+INFO:root:Evaluate Parameters config (1, 854589440, 0, 2, 0, 2, 32, 5):
+INFO:root:performance:222.960000
+INFO:root:cost_time:7697.901129
+INFO:root:Evaluate Parameters config (47, 399507456, 0, 0, 1, 1, 17, 5):
+INFO:root:performance:246.540000
+INFO:root:cost_time:7727.563414
+INFO:root:Evaluate Parameters config (64, 230686720, 2, 1, 2, 1, 10, 5):
+INFO:root:performance:55.880000
+INFO:root:cost_time:7836.749838
+INFO:root:Evaluate Parameters config (7, 333447168, 2, 1, 0, 1, 45, 7):
+INFO:root:performance:61.150000
+INFO:root:cost_time:7936.193331
+INFO:root:Evaluate Parameters config (59, 583008256, 1, 2, 2, 2, 55, 8):
+INFO:root:performance:250.720000
+INFO:root:cost_time:7962.883256
+INFO:root:Evaluate Parameters config (55, 330301440, 2, 2, 2, 0, 46, 7):
+INFO:root:performance:421.990000
+INFO:root:cost_time:7981.675233
+INFO:root:Evaluate Parameters config (7, 510656512, 0, 1, 0, 0, 49, 6):
+INFO:root:performance:7.880000
+INFO:root:cost_time:8729.636254
+INFO:root:Evaluate Parameters config (34, 532676608, 2, 0, 0, 0, 63, 7):
+INFO:root:performance:386.050000
+INFO:root:cost_time:8749.817926
+INFO:root:Evaluate Parameters config (63, 188743680, 1, 2, 2, 1, 46, 5):
+INFO:root:performance:522.030000
+INFO:root:cost_time:8764.998252
+INFO:root:Evaluate Parameters config (55, 278921216, 1, 2, 2, 2, 31, 7):
+INFO:root:performance:458.170000
+INFO:root:cost_time:8781.703246
+INFO:root:Evaluate Parameters config (61, 313524224, 1, 1, 2, 1, 51, 8):
+INFO:root:performance:52.920000
+INFO:root:cost_time:8896.262376
+INFO:root:Evaluate Parameters config (1, 92274688, 0, 1, 1, 0, 59, 7):
+INFO:root:performance:9.470000
+INFO:root:cost_time:9519.295123
+INFO:root:Evaluate Parameters config (25, 470810624, 2, 1, 0, 1, 52, 7):
+INFO:root:performance:60.260000
+INFO:root:cost_time:9619.477200
+INFO:root:Evaluate Parameters config (57, 133169152, 1, 1, 2, 1, 60, 1):
+INFO:root:performance:72.340000
+INFO:root:cost_time:9703.792767
+INFO:root:Evaluate Parameters config (15, 613416960, 2, 1, 2, 2, 3, 4):
+INFO:root:performance:6.030000
+INFO:root:cost_time:10679.916820
+INFO:root:Evaluate Parameters config (17, 155189248, 1, 0, 0, 0, 50, 6):
+INFO:root:performance:681.210000
+INFO:root:cost_time:10692.168893
+INFO:root:Evaluate Parameters config (62, 165675008, 0, 0, 0, 2, 39, 8):
+INFO:root:performance:518.730000
+INFO:root:cost_time:10706.816003
+INFO:root:Evaluate Parameters config (54, 407896064, 2, 0, 1, 2, 14, 5):
+INFO:root:performance:378.230000
+INFO:root:cost_time:10725.654465
+INFO:root:Evaluate Parameters config (24, 709885952, 2, 1, 2, 1, 34, 2):
+INFO:root:performance:87.510000
+INFO:root:cost_time:10796.860526
+INFO:root:Evaluate Parameters config (45, 1048576, 2, 1, 0, 1, 61, 4):
+INFO:root:performance:80.880000
+INFO:root:cost_time:10875.428785
+INFO:root:Evaluate Parameters config (43, 478150656, 0, 2, 1, 1, 5, 2):
+INFO:root:performance:266.620000
+INFO:root:cost_time:10901.303094
+INFO:root:Evaluate Parameters config (61, 927989760, 2, 0, 1, 0, 53, 6):
+INFO:root:performance:257.000000
+INFO:root:cost_time:10928.524964
+INFO:root:Evaluate Parameters config (15, 796917760, 0, 2, 1, 2, 61, 6):
+INFO:root:performance:308.460000
+INFO:root:cost_time:10953.382093
+INFO:root:Evaluate Parameters config (31, 133169152, 0, 1, 1, 1, 63, 2):
+INFO:root:performance:58.940000
+INFO:root:cost_time:11058.258487
+INFO:root:Evaluate Parameters config (47, 550502400, 1, 2, 0, 0, 38, 7):
+INFO:root:performance:281.860000
+INFO:root:cost_time:11082.401602
+INFO:root:Evaluate Parameters config (32, 943718400, 0, 0, 2, 0, 55, 1):
+INFO:root:performance:241.080000
+INFO:root:cost_time:11112.151824
+INFO:root:Evaluate Parameters config (48, 71303168, 1, 2, 1, 2, 32, 3):
+INFO:root:performance:1184.430000
+INFO:root:cost_time:11121.517830
+INFO:root:Evaluate Parameters config (53, 551550976, 2, 2, 0, 1, 10, 8):
+INFO:root:performance:254.070000
+INFO:root:cost_time:11148.211725
+INFO:root:Evaluate Parameters config (2, 818937856, 2, 2, 0, 1, 51, 2):
+INFO:root:performance:288.200000
+INFO:root:cost_time:11173.242850
+INFO:root:Evaluate Parameters config (30, 969932800, 2, 2, 0, 0, 54, 1):
+INFO:root:performance:208.100000
+INFO:root:cost_time:11206.891475
+INFO:root:Evaluate Parameters config (50, 747634688, 2, 0, 1, 2, 17, 7):
+INFO:root:performance:330.330000
+INFO:root:cost_time:11228.833903
+INFO:root:Evaluate Parameters config (38, 116391936, 1, 0, 2, 2, 17, 8):
+INFO:root:performance:332.540000
+INFO:root:cost_time:11250.517791
+INFO:root:Evaluate Parameters config (49, 903872512, 0, 1, 1, 0, 52, 6):
+INFO:root:performance:4.870000
+INFO:root:cost_time:12456.785477
+INFO:root:Evaluate Parameters config (21, 804257792, 1, 2, 2, 1, 22, 3):
+INFO:root:performance:317.970000
+INFO:root:cost_time:12478.767375
+INFO:root:Evaluate Parameters config (40, 149946368, 2, 0, 1, 2, 8, 3):
+INFO:root:performance:731.370000
+INFO:root:cost_time:12492.260185
+INFO:root:Evaluate Parameters config (45, 823132160, 2, 1, 2, 1, 41, 3):
+INFO:root:performance:80.570000
+INFO:root:cost_time:12568.053596
+INFO:root:Evaluate Parameters config (12, 196083712, 2, 1, 2, 1, 47, 8):
+INFO:root:performance:49.370000
+INFO:root:cost_time:12692.498301
+INFO:root:Evaluate Parameters config (17, 412090368, 2, 1, 1, 0, 19, 2):
+INFO:root:performance:10.110000
+INFO:root:cost_time:13275.708994
+INFO:root:Evaluate Parameters config (35, 944766976, 1, 1, 2, 1, 20, 4):
+INFO:root:performance:72.550000
+INFO:root:cost_time:13362.257327
+INFO:root:Evaluate Parameters config (50, 958398464, 1, 0, 1, 0, 58, 3):
+INFO:root:performance:248.720000
+INFO:root:cost_time:13391.631516
+INFO:root:Evaluate Parameters config (29, 541065216, 0, 1, 1, 1, 17, 2):
+INFO:root:performance:60.860000
+INFO:root:cost_time:13496.111913
+INFO:root:Evaluate Parameters config (60, 163577856, 2, 1, 1, 2, 19, 3):
+INFO:root:performance:18.380000
+INFO:root:cost_time:13819.728033
+INFO:root:Evaluate Parameters config (23, 147849216, 1, 2, 2, 0, 58, 7):
+INFO:root:performance:619.630000
+INFO:root:cost_time:13835.489530
+INFO:root:Evaluate Parameters config (11, 377487360, 1, 1, 2, 1, 28, 3):
+INFO:root:performance:43.580000
+INFO:root:cost_time:13973.677569
+INFO:root:Evaluate Parameters config (1, 668991488, 0, 1, 0, 2, 53, 1):
+INFO:root:performance:4.820000
+INFO:root:cost_time:15194.234500
+INFO:root:Evaluate Parameters config (21, 135266304, 0, 1, 0, 2, 38, 1):
+INFO:root:performance:23.330000
+INFO:root:cost_time:15450.575724
+INFO:root:Evaluate Parameters config (43, 517996544, 0, 0, 0, 0, 8, 6):
+INFO:root:performance:262.530000
+INFO:root:cost_time:15476.746123
+INFO:root:Evaluate Parameters config (27, 91226112, 2, 0, 2, 0, 46, 3):
+INFO:root:performance:662.590000
+INFO:root:cost_time:15490.186446
+INFO:root:Evaluate Parameters config (11, 502267904, 1, 0, 0, 1, 33, 4):
+INFO:root:performance:370.220000
+INFO:root:cost_time:15509.603453
+INFO:root:Evaluate Parameters config (51, 983564288, 0, 2, 1, 0, 40, 8):
+INFO:root:performance:253.920000
+INFO:root:cost_time:15537.149124
+INFO:root:Evaluate Parameters config (45, 216006656, 2, 0, 0, 1, 16, 6):
+INFO:root:performance:446.410000
+INFO:root:cost_time:15556.411103
+INFO:root:Evaluate Parameters config (24, 479199232, 1, 0, 2, 0, 7, 4):
+INFO:root:performance:372.570000
+INFO:root:cost_time:15576.011366
+INFO:root:Evaluate Parameters config (9, 166723584, 1, 2, 0, 2, 20, 6):
+INFO:root:performance:539.330000
+INFO:root:cost_time:15594.400681
+INFO:root:Evaluate Parameters config (34, 447741952, 1, 2, 0, 0, 61, 1):
+INFO:root:performance:401.860000
+INFO:root:cost_time:15612.622812
+INFO:root:Evaluate Parameters config (17, 136314880, 0, 1, 1, 0, 40, 6):
+INFO:root:performance:23.910000
+INFO:root:cost_time:15862.393522
+INFO:root:Evaluate Parameters config (10, 521142272, 0, 2, 2, 0, 23, 2):
+INFO:root:performance:376.920000
+INFO:root:cost_time:15881.234513
+INFO:root:Evaluate Parameters config (24, 178257920, 2, 1, 2, 0, 57, 2):
+INFO:root:performance:19.230000
+INFO:root:cost_time:16190.652463
+INFO:root:Evaluate Parameters config (56, 157286400, 1, 2, 2, 2, 2, 2):
+INFO:root:performance:380.750000
+INFO:root:cost_time:16210.126093
+INFO:root:Evaluate Parameters config (4, 869269504, 1, 1, 1, 0, 22, 2):
+INFO:root:performance:5.020000
+INFO:root:cost_time:17381.107624
+INFO:root:Evaluate Parameters config (37, 229638144, 2, 1, 1, 2, 60, 5):
+INFO:root:performance:15.040000
+INFO:root:cost_time:17776.417733
+INFO:root:Evaluate Parameters config (32, 1045430272, 1, 0, 2, 0, 49, 1):
+INFO:root:performance:229.430000
+INFO:root:cost_time:17807.632342
+INFO:root:Evaluate Parameters config (21, 748683264, 2, 2, 1, 1, 48, 4):
+INFO:root:performance:304.160000
+INFO:root:cost_time:17833.128336
+INFO:root:Evaluate Parameters config (25, 163577856, 2, 0, 1, 0, 58, 1):
+INFO:root:performance:577.610000
+INFO:root:cost_time:17848.598891
+INFO:root:Evaluate Parameters config (7, 304087040, 2, 1, 2, 2, 54, 6):
+INFO:root:performance:13.200000
+INFO:root:cost_time:18295.458911
+INFO:root:Evaluate Parameters config (35, 550502400, 2, 2, 1, 2, 24, 1):
+INFO:root:performance:450.680000
+INFO:root:cost_time:18313.899191
+INFO:root:Evaluate Parameters config (34, 617611264, 0, 0, 0, 2, 7, 3):
+INFO:root:performance:384.130000
+INFO:root:cost_time:18333.758764
+INFO:root:Evaluate Parameters config (2, 935329792, 2, 2, 0, 2, 46, 4):
+INFO:root:performance:255.110000
+INFO:root:cost_time:18361.534096
+INFO:root:Evaluate Parameters config (48, 898629632, 0, 1, 2, 2, 54, 5):
+INFO:root:performance:4.960000
+INFO:root:cost_time:19547.944883
+INFO:root:Evaluate Parameters config (39, 890241024, 1, 2, 1, 0, 24, 8):
+INFO:root:performance:263.360000
+INFO:root:cost_time:19573.234352
+INFO:root:Evaluate Parameters config (25, 203423744, 2, 0, 2, 2, 1, 4):
+INFO:root:performance:251.460000
+INFO:root:cost_time:19600.955389
+INFO:root:Evaluate Parameters config (17, 54525952, 0, 1, 0, 0, 59, 1):
+INFO:root:performance:32.280000
+INFO:root:cost_time:19785.745700
+INFO:root:Evaluate Parameters config (16, 262144000, 2, 2, 2, 2, 28, 3):
+INFO:root:performance:543.910000
+INFO:root:cost_time:19799.268193
+INFO:root:Evaluate Parameters config (29, 783286272, 2, 2, 0, 2, 64, 1):
+INFO:root:performance:217.090000
+INFO:root:cost_time:19829.814864
+INFO:root:Evaluate Parameters config (31, 245366784, 1, 2, 0, 1, 29, 1):
+INFO:root:performance:256.040000
+INFO:root:cost_time:19856.881759
+INFO:root:Evaluate Parameters config (16, 782237696, 1, 1, 2, 1, 47, 6):
+INFO:root:performance:69.610000
+INFO:root:cost_time:19944.824168
+INFO:root:Evaluate Parameters config (46, 602931200, 1, 2, 0, 0, 45, 8):
+INFO:root:performance:376.940000
+INFO:root:cost_time:19966.808616
+INFO:root:Evaluate Parameters config (19, 26214400, 1, 0, 1, 0, 11, 7):
+INFO:root:performance:224.360000
+INFO:root:cost_time:19996.797460
+INFO:root:Evaluate Parameters config (52, 232783872, 1, 1, 0, 1, 37, 4):
+INFO:root:performance:53.640000
+INFO:root:cost_time:20110.407081
+INFO:root:Evaluate Parameters config (3, 997195776, 0, 0, 1, 2, 44, 8):
+INFO:root:performance:203.730000
+INFO:root:cost_time:20142.726555
+INFO:root:Evaluate Parameters config (2, 48234496, 1, 2, 0, 2, 25, 2):
+INFO:root:performance:374.650000
+INFO:root:cost_time:20164.681085
+INFO:root:Evaluate Parameters config (47, 576716800, 0, 1, 1, 1, 9, 5):
+INFO:root:performance:66.520000
+INFO:root:cost_time:20256.500769
+INFO:root:Evaluate Parameters config (11, 870318080, 0, 2, 0, 1, 30, 4):
+INFO:root:performance:330.440000
+INFO:root:cost_time:20279.062449
+INFO:root:Evaluate Parameters config (2, 207618048, 1, 0, 0, 1, 6, 8):
+INFO:root:performance:364.200000
+INFO:root:cost_time:20299.728132
+INFO:root:Evaluate Parameters config (44, 225443840, 2, 1, 2, 1, 16, 5):
+INFO:root:performance:50.320000
+INFO:root:cost_time:20419.881706
+INFO:root:Evaluate Parameters config (11, 939524096, 1, 0, 0, 0, 32, 4):
+INFO:root:performance:280.280000
+INFO:root:cost_time:20444.117773
+INFO:root:Evaluate Parameters config (13, 417333248, 1, 0, 2, 1, 8, 4):
+INFO:root:performance:245.920000
+INFO:root:cost_time:20471.691663
+INFO:root:Evaluate Parameters config (15, 974127104, 1, 2, 2, 2, 37, 6):
+INFO:root:performance:255.020000
+INFO:root:cost_time:20498.482422
+INFO:root:Evaluate Parameters config (54, 316669952, 0, 0, 2, 0, 10, 4):
+INFO:root:performance:428.030000
+INFO:root:cost_time:20518.219174
+INFO:root:Evaluate Parameters config (63, 789577728, 2, 2, 1, 0, 62, 4):
+INFO:root:performance:275.060000
+INFO:root:cost_time:20543.321439
+INFO:root:Evaluate Parameters config (2, 1066401792, 2, 2, 1, 2, 64, 7):
+INFO:root:performance:255.040000
+INFO:root:cost_time:20571.725171
+INFO:root:Evaluate Parameters config (12, 665845760, 2, 1, 0, 1, 8, 7):
+INFO:root:performance:63.560000
+INFO:root:cost_time:20668.347807
+INFO:root:Evaluate Parameters config (18, 886046720, 1, 0, 0, 1, 33, 5):
+INFO:root:performance:316.700000
+INFO:root:cost_time:20690.479949
+INFO:root:Evaluate Parameters config (14, 704643072, 2, 0, 2, 1, 48, 2):
+INFO:root:performance:352.830000
+INFO:root:cost_time:20712.754507
+INFO:root:Evaluate Parameters config (45, 218103808, 0, 1, 1, 1, 43, 4):
+INFO:root:performance:49.070000
+INFO:root:cost_time:20839.294326
+INFO:root:Evaluate Parameters config (12, 951058432, 1, 1, 2, 0, 15, 1):
+INFO:root:performance:5.280000
+INFO:root:cost_time:21952.236397
+INFO:root:Evaluate Parameters config (53, 233832448, 0, 1, 0, 2, 6, 2):
+INFO:root:performance:14.920000
+INFO:root:cost_time:22350.917498
+INFO:root:Evaluate Parameters config (35, 152043520, 0, 1, 2, 0, 36, 7):
+INFO:root:performance:20.550000
+INFO:root:cost_time:22639.410998
+INFO:root:Evaluate Parameters config (52, 100663296, 1, 1, 1, 0, 14, 1):
+INFO:root:performance:26.450000
+INFO:root:cost_time:22866.558546
+INFO:root:Evaluate Parameters config (56, 661651456, 0, 0, 2, 2, 39, 8):
+INFO:root:performance:337.010000
+INFO:root:cost_time:22887.193011
+INFO:root:Evaluate Parameters config (12, 579862528, 2, 0, 0, 0, 12, 4):
+INFO:root:performance:358.220000
+INFO:root:cost_time:22907.901810
+INFO:root:Evaluate Parameters config (51, 883949568, 0, 0, 1, 1, 11, 4):
+INFO:root:performance:233.780000
+INFO:root:cost_time:22937.268573
+INFO:root:Evaluate Parameters config (37, 942669824, 2, 2, 0, 0, 21, 4):
+INFO:root:performance:216.210000
+INFO:root:cost_time:22970.171375
+INFO:root:Evaluate Parameters config (43, 764411904, 1, 0, 0, 0, 25, 7):
+INFO:root:performance:247.200000
+INFO:root:cost_time:22997.573247
+INFO:root:Evaluate Parameters config (39, 986710016, 0, 0, 0, 1, 60, 1):
+INFO:root:performance:225.520000
+INFO:root:cost_time:23028.972899
+INFO:root:Evaluate Parameters config (2, 322961408, 0, 1, 2, 2, 42, 3):
+INFO:root:performance:8.170000
+INFO:root:cost_time:23752.787050
+INFO:root:Evaluate Parameters config (47, 946864128, 0, 2, 2, 0, 19, 2):
+INFO:root:performance:146.370000
+INFO:root:cost_time:23796.766239
+INFO:root:Evaluate Parameters config (32, 352321536, 0, 2, 1, 0, 6, 7):
+INFO:root:performance:387.820000
+INFO:root:cost_time:23815.954994
+INFO:root:Evaluate Parameters config (35, 299892736, 0, 0, 0, 2, 32, 4):
+INFO:root:performance:435.280000
+INFO:root:cost_time:23833.401622
+INFO:root:Evaluate Parameters config (24, 263192576, 0, 1, 0, 2, 30, 6):
+INFO:root:performance:13.310000
+INFO:root:cost_time:24278.428389
+INFO:root:Evaluate Parameters config (1, 316669952, 1, 0, 1, 0, 20, 3):
+INFO:root:performance:253.880000
+INFO:root:cost_time:24304.830746
+INFO:root:Evaluate Parameters config (31, 930086912, 1, 2, 0, 0, 3, 7):
+INFO:root:performance:236.700000
+INFO:root:cost_time:24334.728590
+INFO:root:Evaluate Parameters config (55, 378535936, 1, 0, 1, 0, 53, 5):
+INFO:root:performance:399.940000
+INFO:root:cost_time:24358.658203
+INFO:root:Evaluate Parameters config (44, 25165824, 1, 2, 2, 2, 23, 3):
+INFO:root:performance:535.860000
+INFO:root:cost_time:24373.440080
+INFO:root:Evaluate Parameters config (37, 13631488, 2, 2, 0, 1, 6, 6):
+INFO:root:performance:174.870000
+INFO:root:cost_time:24410.922925
+INFO:root:Evaluate Parameters config (25, 722468864, 1, 1, 2, 2, 45, 4):
+INFO:root:performance:5.580000
+INFO:root:cost_time:25467.987019
+INFO:root:Evaluate Parameters config (13, 273678336, 1, 0, 0, 2, 60, 8):
+INFO:root:performance:493.370000
+INFO:root:cost_time:25483.383685
+INFO:root:Evaluate Parameters config (3, 880803840, 2, 1, 0, 0, 44, 2):
+INFO:root:performance:4.800000
+INFO:root:cost_time:26708.153066
+INFO:root:Evaluate Parameters config (53, 242221056, 0, 2, 0, 1, 10, 7):
+INFO:root:performance:219.700000
+INFO:root:cost_time:26739.644390
+INFO:root:Evaluate Parameters config (39, 645922816, 2, 0, 1, 1, 42, 8):
+INFO:root:performance:300.450000
+INFO:root:cost_time:26763.674237
+INFO:root:Evaluate Parameters config (9, 538968064, 0, 2, 0, 1, 24, 1):
+INFO:root:performance:415.130000
+INFO:root:cost_time:26782.813580
+INFO:root:Evaluate Parameters config (15, 1067450368, 2, 1, 2, 0, 28, 7):
+INFO:root:performance:4.530000
+INFO:root:cost_time:28082.382838
+INFO:root:Evaluate Parameters config (13, 19922944, 1, 1, 0, 2, 6, 6):
+INFO:root:performance:49.400000
+INFO:root:cost_time:28207.315834
+INFO:root:Evaluate Parameters config (12, 222298112, 1, 2, 2, 1, 11, 8):
+INFO:root:performance:364.750000
+INFO:root:cost_time:28226.586479
+INFO:root:Evaluate Parameters config (54, 744488960, 1, 2, 0, 0, 39, 1):
+INFO:root:performance:312.180000
+INFO:root:cost_time:28250.239209
+INFO:root:Evaluate Parameters config (30, 1013972992, 2, 2, 1, 2, 45, 5):
+INFO:root:performance:204.630000
+INFO:root:cost_time:28284.697753
+INFO:root:Evaluate Parameters config (15, 137363456, 1, 1, 0, 1, 37, 6):
+INFO:root:performance:60.700000
+INFO:root:cost_time:28387.508030
+INFO:root:Evaluate Parameters config (47, 537919488, 0, 2, 0, 2, 40, 2):
+INFO:root:performance:254.560000
+INFO:root:cost_time:28413.464426
+INFO:root:Evaluate Parameters config (35, 460324864, 0, 0, 0, 2, 61, 6):
+INFO:root:performance:372.970000
+INFO:root:cost_time:28433.974198
+INFO:root:Evaluate Parameters config (11, 679477248, 1, 2, 0, 1, 4, 4):
+INFO:root:performance:236.840000
+INFO:root:cost_time:28462.472375
+INFO:root:Evaluate Parameters config (32, 610271232, 0, 2, 2, 2, 16, 7):
+INFO:root:performance:332.670000
+INFO:root:cost_time:28484.413694
+INFO:root:Evaluate Parameters config (51, 432013312, 2, 0, 0, 0, 17, 8):
+INFO:root:performance:377.070000
+INFO:root:cost_time:28504.333440
+INFO:root:Evaluate Parameters config (5, 387973120, 2, 2, 0, 0, 22, 7):
+INFO:root:performance:382.300000
+INFO:root:cost_time:28526.753627
+INFO:root:Evaluate Parameters config (62, 267386880, 0, 2, 0, 1, 8, 2):
+INFO:root:performance:330.710000
+INFO:root:cost_time:28548.390690
+INFO:root:Evaluate Parameters config (29, 159383552, 2, 0, 2, 0, 14, 5):
+INFO:root:performance:228.140000
+INFO:root:cost_time:28577.967383
+INFO:root:Evaluate Parameters config (60, 1046478848, 0, 0, 1, 1, 50, 2):
+INFO:root:performance:195.480000
+INFO:root:cost_time:28611.236722
+INFO:root:Evaluate Parameters config (57, 497025024, 1, 2, 1, 1, 35, 1):
+INFO:root:performance:425.180000
+INFO:root:cost_time:28628.741009
+INFO:root:Evaluate Parameters config (41, 361758720, 1, 1, 2, 2, 10, 2):
+INFO:root:performance:11.430000
+INFO:root:cost_time:29145.430971
+INFO:root:Evaluate Parameters config (43, 852492288, 0, 1, 1, 2, 14, 1):
+INFO:root:performance:5.210000
+INFO:root:cost_time:30274.189690
+INFO:root:Evaluate Parameters config (53, 467664896, 0, 1, 2, 2, 3, 7):
+INFO:root:performance:8.050000
+INFO:root:cost_time:31008.552444
+INFO:root:Evaluate Parameters config (60, 37748736, 0, 0, 2, 0, 21, 4):
+INFO:root:performance:1359.120000
+INFO:root:cost_time:31017.409117
+INFO:root:Evaluate Parameters config (59, 3145728, 1, 2, 2, 0, 20, 3):
+INFO:root:performance:213.400000
+INFO:root:cost_time:31049.201376
+INFO:root:Evaluate Parameters config (39, 408944640, 2, 0, 0, 2, 26, 1):
+INFO:root:performance:471.830000
+INFO:root:cost_time:31064.926564
+INFO:root:Evaluate Parameters config (51, 265289728, 2, 2, 0, 1, 10, 7):
+INFO:root:performance:400.720000
+INFO:root:cost_time:31084.321012
+INFO:root:Evaluate Parameters config (52, 636485632, 2, 0, 1, 1, 38, 4):
+INFO:root:performance:338.300000
+INFO:root:cost_time:31105.413181
+INFO:root:Evaluate Parameters config (49, 689963008, 0, 0, 2, 2, 43, 3):
+INFO:root:performance:299.970000
+INFO:root:cost_time:31131.921099
+INFO:root:Evaluate Parameters config (3, 854589440, 1, 2, 2, 1, 30, 8):
+INFO:root:performance:263.950000
+INFO:root:cost_time:31162.703125
+INFO:root:Evaluate Parameters config (18, 548405248, 1, 0, 1, 2, 42, 3):
+INFO:root:performance:357.790000
+INFO:root:cost_time:31182.621393
+INFO:root:Evaluate Parameters config (26, 845152256, 1, 2, 1, 2, 40, 4):
+INFO:root:performance:245.400000
+INFO:root:cost_time:31211.397761
+INFO:root:Evaluate Parameters config (42, 66060288, 1, 1, 0, 2, 16, 7):
+INFO:root:performance:29.030000
+INFO:root:cost_time:31416.946822
+INFO:root:Evaluate Parameters config (49, 497025024, 0, 2, 0, 0, 50, 7):
+INFO:root:performance:400.980000
+INFO:root:cost_time:31434.601522
+INFO:root:Evaluate Parameters config (19, 742391808, 2, 1, 0, 1, 3, 6):
+INFO:root:performance:93.420000

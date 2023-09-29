@@ -1,0 +1,18 @@
+ Reading from input file /300_300/oprael
+-- BT-IO Benchmark (write operation only) --
+Number of MPI processes     :        64
+Global array size X         :       300
+Global array size Y         :       300
+Global array size Z         :       300
+Number of I/O iterations    :         5
+Total I/O amount            :      5149.84 MiB
+Total I/O time in sec       :         3.79
+Max file create time in sec :         0.06
+Max write post  time in sec :         0.50
+Max write wait  time in sec :         3.35
+I/O bandwidth            :      1360.02 MiB/s
+------------------------------------------
+Using Parallel netCDF non-blocking I/O method
+output file path         : ./output
+file striping count      :        24
+file striping size       :   2097152 bytes

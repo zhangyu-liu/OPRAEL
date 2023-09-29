@@ -1,0 +1,18 @@
+ Reading from input file 400.data
+-- BT-IO Benchmark (write operation only) --
+Number of MPI processes     :        64
+Global array size X         :       400
+Global array size Y         :       400
+Global array size Z         :       400
+Number of I/O iterations    :         5
+Total I/O amount            :     12207.03 MiB
+Total I/O time in sec       :        45.38
+Max file create time in sec :         2.20
+Max write post  time in sec :         1.12
+Max write wait  time in sec :        42.27
+I/O bandwidth            :       269.02 MiB/s
+------------------------------------------
+Using Parallel netCDF non-blocking I/O method
+output file path         : ./output
+file striping count      :         1
+file striping size       :   1048576 bytes

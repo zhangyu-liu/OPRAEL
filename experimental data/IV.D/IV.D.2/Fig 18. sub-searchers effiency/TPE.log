@@ -1,0 +1,13 @@
+[2023-03-14 08:41:11,082][tpe][INFO][color_logger.py:203] Logfile: /s3d/logs/tpe.log
+[2023-03-14 08:41:48,360][tpe][INFO][generic_smbo.py:298] Iter 1, objectives: [-220.38].
+[2023-03-14 08:42:09,253][tpe][INFO][generic_smbo.py:298] Iter 2, objectives: [-331.95].
+[2023-03-14 08:42:30,033][tpe][INFO][generic_smbo.py:298] Iter 3, objectives: [-367.22].
+[2023-03-14 08:44:13,959][tpe][INFO][generic_smbo.py:298] Iter 4, objectives: [-58.39].
+[2023-03-14 08:44:41,125][tpe][INFO][generic_smbo.py:298] Iter 5, objectives: [-266.09].
+[2023-03-14 08:54:25,994][tpe][INFO][generic_smbo.py:298] Iter 6, objectives: [-10.09].
+[2023-03-14 08:54:36,156][tpe][INFO][generic_smbo.py:298] Iter 7, objectives: [-1526.14].
+[2023-03-14 08:54:55,496][tpe][INFO][generic_smbo.py:298] Iter 8, objectives: [-403.92].
+[2023-03-14 08:55:05,969][tpe][INFO][generic_smbo.py:298] Iter 9, objectives: [-984.89].
+[2023-03-14 08:55:23,381][tpe][INFO][generic_smbo.py:298] Iter 10, objectives: [-408.63].
+[2023-03-14 09:10:15,551][tpe][INFO][generic_smbo.py:298] Iter 11, objectives: [-6.61].
+[2023-03-14 09:11:11,595][tpe][INFO][generic_smbo.py:236] Time 1800.000000 elapsed!

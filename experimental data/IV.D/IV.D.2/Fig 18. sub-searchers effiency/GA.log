@@ -1,0 +1,6 @@
+[2023-03-14 09:23:38,393][ga][INFO][color_logger.py:203] Logfile: /s3d/logs/ga.log
+[2023-03-14 09:27:58,564][ga][INFO][generic_smbo.py:298] Iter 1, objectives: [-22.82].
+[2023-03-14 09:28:27,762][ga][INFO][generic_smbo.py:298] Iter 2, objectives: [-226.53].
+[2023-03-14 09:49:30,726][ga][INFO][generic_smbo.py:298] Iter 3, objectives: [-4.66].
+[2023-03-14 09:51:20,987][ga][INFO][generic_smbo.py:298] Iter 4, objectives: [-56.34].
+[2023-03-14 09:53:39,086][ga][INFO][generic_smbo.py:236] Time 1800.000000 elapsed!

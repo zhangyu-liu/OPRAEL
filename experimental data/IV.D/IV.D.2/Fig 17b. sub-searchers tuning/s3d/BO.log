@@ -1,0 +1,16 @@
++-------------------------+---------------+
+| Parameters              | Optimal Value |
++-------------------------+---------------+
+| CB_Nodes                | 64            |
+| Nodes_Config            | 8             |
+| Romio_CB_Read           | 2             |
+| Romio_CB_Write          | 2             |
+| Romio_DS_Read           | 2             |
+| Romio_DS_Write          | 0             |
+| Strip_Count             | 57            |
+| Strip_Size_MB           | 10            |
++-------------------------+---------------+
+| Optimal Objective Value | -1701.430000  |
++-------------------------+---------------+
+| Num Trials              | 67            |
++-------------------------+---------------+
